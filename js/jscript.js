@@ -84,6 +84,32 @@ function funcion(){
         else if (array[i]=="9"){array[i] =n9; }
         else if (array[i]=="0"){array[i] =n0; }
         else if (array[i]==" "){array[i] =space; }
+        else if (array[i]=="A"){array[i] = a;}
+        else if (array[i]=="B"){array[i] = b;}
+        else if (array[i]=="C"){array[i] =c; }
+        else if (array[i]=="D"){array[i] =d; }
+        else if (array[i]=="E"){array[i] =e; }
+        else if (array[i]=="F"){array[i] =f; }
+        else if (array[i]=="G"){array[i] =g; }
+        else if (array[i]=="H"){array[i] =h; }
+        else if (array[i]=="I"){array[i] =i3; }
+        else if (array[i]=="J"){array[i] =j; }
+        else if (array[i]=="K"){array[i] =k; }
+        else if (array[i]=="L"){array[i] =l; }
+        else if (array[i]=="M"){array[i] =m; }
+        else if (array[i]=="N"){array[i] =n; }
+        else if (array[i]=="O"){array[i] =o; }
+        else if (array[i]=="P"){array[i] =p; }
+        else if (array[i]=="Q"){array[i] =q; }
+        else if (array[i]=="R"){array[i] =r; }
+        else if (array[i]=="S"){array[i] =s; }
+        else if (array[i]=="T"){array[i] =t; }
+        else if (array[i]=="U"){array[i] =u; }
+        else if (array[i]=="V"){array[i] =v; }
+        else if (array[i]=="W"){array[i] =w; }
+        else if (array[i]=="X"){array[i] =x; }
+        else if (array[i]=="Y"){array[i] =y; }
+        else if (array[i]=="Z"){array[i] =z; }
 
 
 
