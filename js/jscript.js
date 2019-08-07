@@ -35,7 +35,7 @@ let n8 = "---.. " ;
 let n9 = "----. " ;
 let n0 = "----- " ;
 let space = "/";
-var total= " ";
+var total= "/ ";
 
 function funcion(){
   var traducir= document.getElementById('ingresar').value;
@@ -117,19 +117,20 @@ function funcion(){
       for(i=0;i<cant;i++){
         var b5 = i;
         total=total+array[i];
+
       }
 
   function result() {
 
         document.getElementById("resultado").innerHTML = total ;
         console.log(cant);
-
+     total="/"
   }
   result();
 }
 funcion();
 function limpiar(){
-  var total="";
+  let total="/ ";
   document.getElementById("resultado").innerHTML = total ;
 }
 limpiar();
